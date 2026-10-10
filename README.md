@@ -50,10 +50,9 @@ SerpApi is essential: the `location` parameter is what makes per-city results po
   - **Claude Code (Anthropic, Claude Sonnet 5.5):** used to design, write and test the code, the demo data pipeline, this README and the pitch.
   - **Microsoft Edge neural text-to-speech ("en-IN-PrabhatNeural"):** voiceover for the demo video only.
   - **Runtime (optional):** the Anthropic API writes a 3-sentence insight only if `ANTHROPIC_API_KEY` is set; otherwise a deterministic template is used. The tools do not call any AI model.
-- **Rules and Terms & Conditions:** read and accepted by the lead participant. This box must be ticked by the participant, not by this document: [ ] I have read and accept the hackathon Rules and Terms & Conditions.
+- **Rules and Terms & Conditions:** [ ] I have read and accept the hackathon Rules and Terms & Conditions. _(The participant must tick this box themselves.)_
 
 See also [PITCH.md](PITCH.md) for the pitch, SDG mapping and 3-minute demo script, and the walkthrough video in `video/`.
-
 
 ## Problem
 
@@ -103,7 +102,6 @@ Page and domain difference are 1 minus the Jaccard overlap of native vs English 
 Re-record the English demo set with `node scripts/record-demo.mjs http://localhost:3000 english`.
 
 See [PITCH.md](PITCH.md) for the hackathon pitch, SDG mapping and demo script.
-
 
 ## Architecture
 
@@ -174,5 +172,3 @@ See **Disclosures and agreement** near the top of this file for the full list of
 ## License
 
 MIT
-#   p r i s m - i n d i a  
- 
