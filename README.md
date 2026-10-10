@@ -404,12 +404,9 @@ npm test                         # 17 unit tests
 | | |
 |---|---|
 | **Lead participant** | Ayush Pund |
-| **Organisation** | Welyft |
 | **Email** | ayushpund12345@gmail.com |
 | **Phone** | 8446204947 |
 | **Occupation** | Software engineer |
-| **Years of experience** | _[add before submitting]_ |
-| **Teammates (name, email)** | _[add before submitting, or write "none"]_ |
 
 ### Disclosures and agreement
 
