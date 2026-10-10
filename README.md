@@ -36,12 +36,9 @@ SerpApi is essential: the `location` parameter is what makes per-city results po
 | | |
 |---|---|
 | **Lead participant** | Ayush Pund |
-| **Organisation** | Welyft |
 | **Email** | ayushpund12345@gmail.com |
 | **Phone** | 8446204947 |
 | **Occupation** | Software engineer |
-| **Years of experience** | _[add before submitting]_ |
-| **Teammates (name, email)** | _[add before submitting, or write "none"]_ |
 
 ### Disclosures and agreement
 
