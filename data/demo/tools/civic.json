@@ -1,0 +1,167 @@
+{
+ "tool": "civic",
+ "query": "voter id correction",
+ "groups": [
+  {
+   "label": "Official sources",
+   "items": [
+    {
+     "title": "Voter - ECI",
+     "link": "https://voters.eci.gov.in/",
+     "source": "voters.eci.gov.in",
+     "snippet": "Correction Of Entries. Fill Form 8 to get EPIC with updated or replacement ... Search Your Name in Voter List. Search Your Name in Voter List, Know Your ...",
+     "open": true,
+     "badges": [
+      {
+       "label": "Official .gov.in / .nic.in",
+       "tone": "good"
+      }
+     ],
+     "facts": []
+    },
+    {
+     "title": "Voter's Services Portal | Election Commission of India",
+     "link": "https://www.eci.gov.in/voters-services-portal",
+     "source": "eci.gov.in",
+     "snippet": "If there are any errors in your voter registration details, you can apply for name correction or deletion online through the VSP.",
+     "open": true,
+     "badges": [
+      {
+       "label": "Official .gov.in / .nic.in",
+       "tone": "good"
+      }
+     ],
+     "facts": []
+    },
+    {
+     "title": "Forms Dashboard - Voter - ECI",
+     "link": "https://voters.eci.gov.in/home/forms",
+     "source": "voters.eci.gov.in",
+     "snippet": "Form for Correction in Electoral Roll (Overseas) Your Assistant Back Do you have an EPIC/Voter ID Card Number? Apply for correction of particulars entries in ...",
+     "open": true,
+     "badges": [
+      {
+       "label": "Official .gov.in / .nic.in",
+       "tone": "good"
+      }
+     ],
+     "facts": []
+    },
+    {
+     "title": "Login - Voter - ECI",
+     "link": "https://voters.eci.gov.in/login",
+     "source": "voters.eci.gov.in",
+     "snippet": "Login. Do not have an account? Sign-Up. Indian Resident Elector. Indian Overseas Elector. Registered Mobile No./Email ID/EPIC No. *. Captcha.",
+     "open": true,
+     "badges": [
+      {
+       "label": "Official .gov.in / .nic.in",
+       "tone": "good"
+      }
+     ],
+     "facts": []
+    },
+    {
+     "title": "Election Commission of India",
+     "link": "https://ecinet.eci.gov.in/homepage/home/voterRegistrationForms",
+     "source": "ecinet.eci.gov.in",
+     "snippet": "Correction Of Entries. Fill Form to get EPIC with updated or replacement or marking of PwD. Fill Form 8. Fill Form 8 Overseas (Self Correction Only). Download.",
+     "open": true,
+     "badges": [
+      {
+       "label": "Official .gov.in / .nic.in",
+       "tone": "good"
+      }
+     ],
+     "facts": []
+    },
+    {
+     "title": "Voter Application Form for shifting of Residence/Correction ...",
+     "link": "https://ceojk.nic.in/Forms/voters/Eform8.pdf",
+     "source": "ceojk.nic.in",
+     "snippet": "Please correct my following details in Electoral Roll/EPIC: (Maximum of 4 entries/particulars can be corrected). (Put a tick ☑ in appropriate box below.) Copy ...",
+     "open": true,
+     "badges": [
+      {
+       "label": "Official .gov.in / .nic.in",
+       "tone": "good"
+      }
+     ],
+     "facts": []
+    },
+    {
+     "title": "Electors | Election Commission of India",
+     "link": "https://www.eci.gov.in/electors",
+     "source": "eci.gov.in",
+     "snippet": "Submit Online or Download Application Form for shifting of Residence/Correction of Entries in Existing Electoral Roll/Replacement of EPIC. Voter ID (EPIC",
+     "open": true,
+     "badges": [
+      {
+       "label": "Official .gov.in / .nic.in",
+       "tone": "good"
+      }
+     ],
+     "facts": []
+    },
+    {
+     "title": "NGSP Dashboard - Voter - ECI",
+     "link": "https://voters.eci.gov.in/home/ngsp",
+     "source": "voters.eci.gov.in",
+     "snippet": "For correction of entries in Electoral Roll, the applicant shall submit the application (Form 8 ) to the ERO ,concerned either offline or online.",
+     "open": true,
+     "badges": [
+      {
+       "label": "Official .gov.in / .nic.in",
+       "tone": "good"
+      }
+     ],
+     "facts": []
+    },
+    {
+     "title": "Voter Helpline App | Election Commission of India",
+     "link": "https://www.eci.gov.in/voter-helpline-app",
+     "source": "eci.gov.in",
+     "snippet": "Register or modify your voter registration:If you are not yet registered to vote, you can use the app to register yourself or modify your existing registration ...",
+     "open": true,
+     "badges": [
+      {
+       "label": "Official .gov.in / .nic.in",
+       "tone": "good"
+      }
+     ],
+     "facts": []
+    },
+    {
+     "title": "How to Register to Vote | Election Commission of India",
+     "link": "https://www.eci.gov.in/faq/en/how-to-register/",
+     "source": "eci.gov.in",
+     "snippet": "Please fill Form 8 (Link to online form) for shifting of Residence/Correction of ... Voter list is continuously updated till the last date of filing of ...",
+     "open": true,
+     "badges": [
+      {
+       "label": "Official .gov.in / .nic.in",
+       "tone": "good"
+      }
+     ],
+     "facts": []
+    }
+   ]
+  }
+ ],
+ "stats": [
+  {
+   "label": "Results",
+   "value": "10"
+  },
+  {
+   "label": "Official domains",
+   "value": "100%"
+  }
+ ],
+ "notes": [
+  "Apply only on official sites. Government services never need an agent."
+ ],
+ "creditsUsed": 0,
+ "demo": true,
+ "createdAt": "2026-10-10T06:49:10.392Z"
+}

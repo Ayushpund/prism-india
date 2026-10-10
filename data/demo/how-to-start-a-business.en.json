@@ -1,0 +1,918 @@
+{
+ "query": "how to start a business",
+ "langMode": "english",
+ "outcomes": [
+  {
+   "ok": true,
+   "data": {
+    "regionId": "mumbai",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "Checklist for Starting a Business (2026) — The 14 Key Steps",
+      "link": "https://www.stylefactoryproductions.com/how-to-start-a-business",
+      "domain": "stylefactoryproductions.com",
+      "snippet": "How to start a business — cheatsheet · Make sure your business idea is robust · Create a strong business plan · Choose a funding model · Pick a ..."
+     },
+     {
+      "position": 2,
+      "title": "7 Important Resources for Starting Your Own Business",
+      "link": "https://www.indianstartuptimes.com/international/7-important-resources-for-starting-your-own-business/",
+      "domain": "indianstartuptimes.com",
+      "snippet": "To spread the word about your business you need a solid marketing strategy and a plan to reach your customers. From getting a logo to creating a ..."
+     },
+     {
+      "position": 3,
+      "title": "How to Start a Business: A Step-by-Step Guide for Beginners",
+      "link": "https://www.youtube.com/watch?v=euFu_KRCX4s",
+      "domain": "youtube.com",
+      "snippet": "How to Start a Business: A Step-by-Step Guide for Beginners - YouTube"
+     },
+     {
+      "position": 4,
+      "title": "Starting a Business | MD Mishal D'Souza| Michran Group",
+      "link": "https://www.youtube.com/watch?v=jCR10HFz8us",
+      "domain": "youtube.com",
+      "snippet": "What Is business, “Simple, genuine goodness is the best capital to found the business of this life upon. It lasts when fame and money fail, ..."
+     },
+     {
+      "position": 5,
+      "title": "Learn How to Start Your Company From Scratch - News",
+      "link": "https://news.badabusiness.com/process-business-expansion/learn-how-to-start-your-company-from-scratch-775.html",
+      "domain": "news.badabusiness.com",
+      "snippet": "Start a Company with Ease! ... After researching your business idea, the next phase is preparing a business plan that reflects steady & realistic ..."
+     },
+     {
+      "position": 6,
+      "title": "17 Steps to Starting a Small Business",
+      "link": "https://www.startupfino.com/blogs/17-steps-to-starting-a-small-business/",
+      "domain": "startupfino.com",
+      "snippet": "What are the 17 steps to Start a Small Business in India? · Research About the Business · Proper Business Plan · Proper Business Structure."
+     },
+     {
+      "position": 7,
+      "title": "13 Steps on How to Start a Business (2025)",
+      "link": "https://www.freshbooks.com/hub/business-management/how-to-start-a-business?srsltid=AU7gw4XhOvfu0OrpGwbVWdOTLaAgP3Sx30LDP9ZUL63q3TkKiPc71Bv9",
+      "domain": "freshbooks.com",
+      "snippet": "13 Steps on How to Start a Business (2025) · 1. Determine Your Business Idea · 2. Research Competitors and Market Trends · 3. Build Your ..."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": {
+     "text": "Starting a business involves moving from an initial concept to formal registration, funding, and launch. Develop and Validate Your Idea: Identify a product, service, or market gap that solves a clear customer problem. Research your target audience and study local competitors. Write a Business Plan: Create a traditional multi-page document or a one-page lean startup plan outlining your goals, products, target market, and financial projections. Choose a Business Structure: Decide on a legal format such as a sole proprietorship, partnership, limited liability company (LLC), or private limited company, which affects your taxes and personal liability. Secure Financing: Fund your operations through personal savings, bootstrapping, bank loans, government-backed initiatives like the Pradhan Mantri Mudra Yojana or Startup India, or angel investors. Register and License: Register your business name, obtain a tax identification number or PAN/GST where applicable, and acquire the necessary local trade or operational licenses. Set Up Finances and Operations: Open a dedicated small-business bank account, set up an accounting or POS system, and purchase required business insurance. Build a Brand and Launch: Establish a digital presence with a website or social media profile, execute your marketing plan, and start gathering customer feedback to iterate. For more structured guidance on step-by-step planning, you can explore the Coursera Business Guide or review framework insights from The Hartford Business Strategy Guide. Watch this guide for a breakdown of how to launch and structure your first business idea:",
+     "sources": [
+      {
+       "title": "10 Steps to Starting a Business | Coursera",
+       "link": "https://www.coursera.org/in/articles/start-a-business"
+      },
+      {
+       "title": "Starting a Small Business in India: Key Steps & Benefits",
+       "link": "https://www.indiafilings.com/learn/how-to-start-a-small-business"
+      },
+      {
+       "title": "How to Start a Business From Scratch in 7 Steps | The Hartford",
+       "link": "https://www.thehartford.com/business-insurance/strategy/how-to-start-a-business"
+      },
+      {
+       "title": "10-Step Guide to Starting Your Startup Business",
+       "link": "https://www.jpmorgan.com/insights/business-planning/10-step-guide-to-starting-your-startup-business"
+      },
+      {
+       "title": "How To Start A Business: A Step by Step Guide For 2026",
+       "link": "https://www.businessnewsdaily.com/4686-how-to-start-a-business.html"
+      },
+      {
+       "title": "Basic Guide To Start your own Business",
+       "link": "https://eodbmis.assam.gov.in/eodb/docs/pdf/set_up_business.pdf"
+      },
+      {
+       "title": "How to Start a Business in 10 Easy Steps | Startup Business",
+       "link": "https://www.thehartford.com/business-insurance/strategy/startup"
+      },
+      {
+       "title": "How to Start a Small Business (Step-by-Step Guide)",
+       "link": "https://www.adp.com/resources/articles-and-insights/articles/h/how-to-start-a-small-business-a-step-by-step-guide.aspx"
+      },
+      {
+       "title": "How to Start a Business (Even If You Have No Idea What to Do) | Q&A",
+       "link": "https://www.youtube.com/watch?v=6T5VY0sYJOo"
+      }
+     ]
+    },
+    "relatedQuestions": [
+     "Why is Gen Z so entrepreneurial?",
+     "Is it true that 90% of startups fail?",
+     "What are the top 3 skills in business?",
+     "Is $5000 enough to start a business?"
+    ],
+    "news": [],
+    "fromCache": true,
+    "warnings": []
+   }
+  },
+  {
+   "ok": true,
+   "data": {
+    "regionId": "delhi",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "7 Important Resources for Starting Your Own Business",
+      "link": "https://www.indianstartuptimes.com/international/7-important-resources-for-starting-your-own-business/",
+      "domain": "indianstartuptimes.com",
+      "snippet": "To spread the word about your business you need a solid marketing strategy and a plan to reach your customers. From getting a logo to creating a ..."
+     },
+     {
+      "position": 2,
+      "title": "How to start a business from home? Join the Webinar",
+      "link": "https://www.youtube.com/watch?v=lFsU2GlNGgM",
+      "domain": "youtube.com",
+      "snippet": "How to start a business from home? Join the Webinar 👍. Businesses should evaluate their unique circumstances and consult qualified experts ..."
+     },
+     {
+      "position": 3,
+      "title": "Business",
+      "link": "https://blog.hubspot.com/sales/how-to-start-a-business?_ga=2.184893481.1626519006.1595886274-975119944.1579032009",
+      "domain": "blog.hubspot.com",
+      "snippet": "No information is available for this page."
+     },
+     {
+      "position": 4,
+      "title": "How To Start Business In India",
+      "link": "https://www.youtube.com/watch?v=YMWl-6JwQu0",
+      "domain": "youtube.com",
+      "snippet": "How To Start Business In India | How To Start Business Online | Business Start Up Ideas | Business Start Up Plans"
+     },
+     {
+      "position": 5,
+      "title": "How to Start a Small Business: An 8-Step Beginner's Guide",
+      "link": "https://blog.deasra.in/how-to-start-a-small-business-an-8-step-beginners-guide/",
+      "domain": "blog.deasra.in",
+      "snippet": "1. Identifying Your Unique Idea · 2. Conducting Market Research · 3. Drafting a Business Plan · 4. Financing Your Venture · 5. Legal Registration ..."
+     },
+     {
+      "position": 6,
+      "title": "17 Steps to Starting a Small Business",
+      "link": "https://www.startupfino.com/blogs/17-steps-to-starting-a-small-business/",
+      "domain": "startupfino.com",
+      "snippet": "What are the 17 steps to Start a Small Business in India? · Research About the Business · Proper Business Plan · Proper Business Structure."
+     },
+     {
+      "position": 7,
+      "title": "Learn How to Start Your Company From Scratch - News",
+      "link": "https://news.badabusiness.com/process-business-expansion/learn-how-to-start-your-company-from-scratch-775.html",
+      "domain": "news.badabusiness.com",
+      "snippet": "Start a Company with Ease! ... After researching your business idea, the next phase is preparing a business plan that reflects steady & realistic ..."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": null,
+    "relatedQuestions": [
+     "Why is Gen Z so entrepreneurial?",
+     "What are the top 3 skills in business?",
+     "Is $5000 enough to start a business?",
+     "How do I build a website for my business?"
+    ],
+    "news": [],
+    "fromCache": false,
+    "warnings": []
+   }
+  },
+  {
+   "ok": true,
+   "data": {
+    "regionId": "chennai",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "Business",
+      "link": "https://en.wikipedia.org/wiki/Business",
+      "domain": "en.wikipedia.org",
+      "snippet": "Business is the practice of making one's living or making money by producing or buying and selling products It is also \"any activity or enterprise entered ..."
+     },
+     {
+      "position": 2,
+      "title": "Get Listed on Google - Google Business Profile",
+      "link": "https://business.google.com/in/business-profile/",
+      "domain": "business.google.com",
+      "snippet": "creating a Business Profile and listing your business on Google is free. Create your profile at no cost, and you can manage your business from Google Search ..."
+     },
+     {
+      "position": 3,
+      "title": "Business",
+      "link": "https://www.forbes.com/business/",
+      "domain": "forbes.com",
+      "snippet": "How to Start a Business LLC Services Payroll Services HR Software HRIS Systems PEO Services Applicant tracking Systems Domain Registrars"
+     },
+     {
+      "position": 4,
+      "title": "What Is a Business? Understanding Different Types and ...",
+      "link": "https://www.investopedia.com/terms/b/business.asp",
+      "domain": "investopedia.com",
+      "snippet": "This includes conducting market research, developing a business plan, seeking capital or other forms of funding, choosing a location and business structure,"
+     },
+     {
+      "position": 5,
+      "title": "Business & Self-employed | Category",
+      "link": "https://www.india.gov.in/category/business-self-employed",
+      "domain": "india.gov.in",
+      "snippet": "The National Portal of India provides single-window access to information and services offered by the government at all levels."
+     },
+     {
+      "position": 6,
+      "title": "Business Horizons | Journal | ScienceDirect.com by Elsevier",
+      "link": "https://www.sciencedirect.com/journal/business-horizons",
+      "domain": "sciencedirect.com",
+      "snippet": "Read the latest articles of Business Horizons at ScienceDirect.com, Elsevier's leading platform of peer-reviewed scholarly literature."
+     },
+     {
+      "position": 7,
+      "title": "B-READY 2025 is now released!",
+      "link": "https://www.worldbank.org/en/businessready",
+      "domain": "worldbank.org",
+      "snippet": "The Business Ready (B-READY) 2025 report assesses the regulatory framework and public services directed at firms, and the efficiency with which regulatory ..."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": {
+     "text": "To start a business, follow a structured process from validating your concept to registering and launching your operations. Develop Your Idea: Identify a product or service that solves a specific customer problem or fulfills a market need. Conduct Market Research: Analyze customer behavior, study local or global competitors, and verify demand before investing capital. Write a Business Plan: Outline your company goals, target audience, marketing strategy, and financial projections in a traditional or lean format. Choose a Business Structure: Decide whether to register as a sole proprietorship, partnership, limited liability company (LLC), or corporation based on your liability and tax needs. Register and Get Licenses: File your formation documents with government authorities, pick a unique name, and secure any necessary local permits or tax identification numbers. Separate Your Finances: Open a dedicated small business bank account to keep personal and business transactions strictly separate. Build a Web Presence: Create a digital identity, website, or social media profile to market your offerings and connect with initial clients. For a detailed roadmap on planning and launching, explore resources from Coursera's Start a Business Guide or review tactical frameworks via The Hartford's Business Guide and Business News Daily. Watch these helpful video guides to learn more about the step-by-step process of launching your first business:",
+     "sources": [
+      {
+       "title": "How to START a New Business Step by Step & Get Success",
+       "link": "https://www.youtube.com/watch?v=9tpYC5s2EjM&t=19"
+      },
+      {
+       "title": "10 Steps to Starting a Business | Coursera",
+       "link": "https://www.coursera.org/in/articles/start-a-business"
+      },
+      {
+       "title": "How to Start a Small Business (Step-by-Step Guide)",
+       "link": "https://www.adp.com/resources/articles-and-insights/articles/h/how-to-start-a-small-business-a-step-by-step-guide.aspx"
+      },
+      {
+       "title": "How to Start a Business From Scratch With NO MONEY",
+       "link": "https://www.youtube.com/watch?v=o0LdVO6XrqE&t=383"
+      },
+      {
+       "title": "How to Start a Business From Scratch in 7 Steps | The Hartford",
+       "link": "https://www.thehartford.com/business-insurance/strategy/how-to-start-a-business"
+      },
+      {
+       "title": "How To Start A Business: A Step by Step Guide For 2026",
+       "link": "https://www.businessnewsdaily.com/4686-how-to-start-a-business.html"
+      },
+      {
+       "title": "How to Actually Start Your Own Business (No-Bs Guide)",
+       "link": "https://www.youtube.com/watch?v=JJyLynh5d6M"
+      }
+     ]
+    },
+    "relatedQuestions": [
+     "How do I start my first business with no money?",
+     "What business can I start with RS 50,000?",
+     "What are the 7 steps to starting a business?",
+     "What is the cheapest business to start?"
+    ],
+    "news": [],
+    "fromCache": false,
+    "warnings": []
+   }
+  },
+  {
+   "ok": true,
+   "data": {
+    "regionId": "kolkata",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "7 Important Resources for Starting Your Own Business",
+      "link": "https://www.indianstartuptimes.com/international/7-important-resources-for-starting-your-own-business/",
+      "domain": "indianstartuptimes.com",
+      "snippet": "To spread the word about your business you need a solid marketing strategy and a plan to reach your customers. From getting a logo to creating a ..."
+     },
+     {
+      "position": 2,
+      "title": "How to Start a Business: A Step-by-Step Guide for Beginners",
+      "link": "https://www.youtube.com/watch?v=euFu_KRCX4s",
+      "domain": "youtube.com",
+      "snippet": "How to Start a Business: A Step-by-Step Guide for Beginners - YouTube"
+     },
+     {
+      "position": 3,
+      "title": "Checklist for Starting a Business (2026) — The 14 Key Steps",
+      "link": "https://www.stylefactoryproductions.com/how-to-start-a-business",
+      "domain": "stylefactoryproductions.com",
+      "snippet": "How to start a business — cheatsheet · Make sure your business idea is robust · Create a strong business plan · Choose a funding model · Pick a ..."
+     },
+     {
+      "position": 4,
+      "title": "Starting a Business | MD Mishal D'Souza| Michran Group",
+      "link": "https://www.youtube.com/watch?v=jCR10HFz8us",
+      "domain": "youtube.com",
+      "snippet": "What Is business, “Simple, genuine goodness is the best capital to found the business of this life upon. It lasts when fame and money fail, ..."
+     },
+     {
+      "position": 5,
+      "title": "Learn How to Start Your Company From Scratch - News",
+      "link": "https://news.badabusiness.com/process-business-expansion/learn-how-to-start-your-company-from-scratch-775.html",
+      "domain": "news.badabusiness.com",
+      "snippet": "Start a Company with Ease! ... After researching your business idea, the next phase is preparing a business plan that reflects steady & realistic ..."
+     },
+     {
+      "position": 6,
+      "title": "17 Steps to Starting a Small Business",
+      "link": "https://www.startupfino.com/blogs/17-steps-to-starting-a-small-business/",
+      "domain": "startupfino.com",
+      "snippet": "What are the 17 steps to Start a Small Business in India? · Research About the Business · Proper Business Plan · Proper Business Structure."
+     },
+     {
+      "position": 7,
+      "title": "13 Steps on How to Start a Business (2025)",
+      "link": "https://www.freshbooks.com/hub/business-management/how-to-start-a-business?srsltid=AU7gw4UDaMTk0oNvZLw5KiV1K2hPAwWo5un1_QtyJz_1oOTaYoj-oDb5",
+      "domain": "freshbooks.com",
+      "snippet": "13 Steps on How to Start a Business (2025) · 1. Determine Your Business Idea · 2. Research Competitors and Market Trends · 3. Build Your ..."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": {
+     "text": "Starting a business involves moving from an initial concept to formal registration, funding, and launch. Develop and Validate Your Idea: Identify a product, service, or market gap that solves a clear customer problem. Research your target audience and study local competitors. Write a Business Plan: Create a traditional multi-page document or a one-page lean startup plan outlining your goals, products, target market, and financial projections. Choose a Business Structure: Decide on a legal format such as a sole proprietorship, partnership, limited liability company (LLC), or private limited company, which affects your taxes and personal liability. Secure Financing: Fund your operations through personal savings, bootstrapping, bank loans, government-backed initiatives like the Pradhan Mantri Mudra Yojana or Startup India, or angel investors. Register and License: Register your business name, obtain a tax identification number or PAN/GST where applicable, and acquire the necessary local trade or operational licenses. Set Up Finances and Operations: Open a dedicated small-business bank account, set up an accounting or POS system, and purchase required business insurance. Build a Brand and Launch: Establish a digital presence with a website or social media profile, execute your marketing plan, and start gathering customer feedback to iterate. For more structured guidance on step-by-step planning, you can explore the Coursera Business Guide or review framework insights from The Hartford Business Strategy Guide. Watch this guide for a breakdown of how to launch and structure your first business idea: If you tell me what type of business or industry you want to enter and your location, I can help you with specific registration requirements or funding options.",
+     "sources": [
+      {
+       "title": "10 Steps to Starting a Business | Coursera",
+       "link": "https://www.coursera.org/in/articles/start-a-business"
+      },
+      {
+       "title": "Starting a Small Business in India: Key Steps & Benefits",
+       "link": "https://www.indiafilings.com/learn/how-to-start-a-small-business"
+      },
+      {
+       "title": "How to Start a Business From Scratch in 7 Steps | The Hartford",
+       "link": "https://www.thehartford.com/business-insurance/strategy/how-to-start-a-business"
+      },
+      {
+       "title": "10-Step Guide to Starting Your Startup Business",
+       "link": "https://www.jpmorgan.com/insights/business-planning/10-step-guide-to-starting-your-startup-business"
+      },
+      {
+       "title": "How To Start A Business: A Step by Step Guide For 2026",
+       "link": "https://www.businessnewsdaily.com/4686-how-to-start-a-business.html"
+      },
+      {
+       "title": "Basic Guide To Start your own Business",
+       "link": "https://eodbmis.assam.gov.in/eodb/docs/pdf/set_up_business.pdf"
+      },
+      {
+       "title": "How to Start a Business in 10 Easy Steps | Startup Business",
+       "link": "https://www.thehartford.com/business-insurance/strategy/startup"
+      },
+      {
+       "title": "How to Start a Small Business (Step-by-Step Guide)",
+       "link": "https://www.adp.com/resources/articles-and-insights/articles/h/how-to-start-a-small-business-a-step-by-step-guide.aspx"
+      },
+      {
+       "title": "How to Start a Business (Even If You Have No Idea What to Do) | Q&A",
+       "link": "https://www.youtube.com/watch?v=6T5VY0sYJOo"
+      }
+     ]
+    },
+    "relatedQuestions": [
+     "Why is Gen Z so entrepreneurial?",
+     "Is it true that 90% of startups fail?",
+     "What are the top 3 skills in business?",
+     "Is $5000 enough to start a business?"
+    ],
+    "news": [],
+    "fromCache": false,
+    "warnings": []
+   }
+  },
+  {
+   "ok": true,
+   "data": {
+    "regionId": "hyderabad",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "7 Important Resources for Starting Your Own Business",
+      "link": "https://www.indianstartuptimes.com/international/7-important-resources-for-starting-your-own-business/",
+      "domain": "indianstartuptimes.com",
+      "snippet": "To spread the word about your business you need a solid marketing strategy and a plan to reach your customers. From getting a logo to creating a ..."
+     },
+     {
+      "position": 2,
+      "title": "How to Start a Business: A Step-by-Step Guide for Beginners",
+      "link": "https://www.youtube.com/watch?v=euFu_KRCX4s",
+      "domain": "youtube.com",
+      "snippet": "How to Start a Business: A Step-by-Step Guide for Beginners - YouTube"
+     },
+     {
+      "position": 3,
+      "title": "Checklist for Starting a Business (2026) — The 14 Key Steps",
+      "link": "https://www.stylefactoryproductions.com/how-to-start-a-business",
+      "domain": "stylefactoryproductions.com",
+      "snippet": "How to start a business — cheatsheet · Make sure your business idea is robust · Create a strong business plan · Choose a funding model · Pick a ..."
+     },
+     {
+      "position": 4,
+      "title": "Starting a Business | MD Mishal D'Souza| Michran Group",
+      "link": "https://www.youtube.com/watch?v=jCR10HFz8us",
+      "domain": "youtube.com",
+      "snippet": "What Is business, “Simple, genuine goodness is the best capital to found the business of this life upon. It lasts when fame and money fail, ..."
+     },
+     {
+      "position": 5,
+      "title": "Learn How to Start Your Company From Scratch - News",
+      "link": "https://news.badabusiness.com/process-business-expansion/learn-how-to-start-your-company-from-scratch-775.html",
+      "domain": "news.badabusiness.com",
+      "snippet": "Start a Company with Ease! ... After researching your business idea, the next phase is preparing a business plan that reflects steady & realistic ..."
+     },
+     {
+      "position": 6,
+      "title": "17 Steps to Starting a Small Business",
+      "link": "https://www.startupfino.com/blogs/17-steps-to-starting-a-small-business/",
+      "domain": "startupfino.com",
+      "snippet": "What are the 17 steps to Start a Small Business in India? · Research About the Business · Proper Business Plan · Proper Business Structure."
+     },
+     {
+      "position": 7,
+      "title": "13 Steps on How to Start a Business (2025)",
+      "link": "https://www.freshbooks.com/hub/business-management/how-to-start-a-business?srsltid=AU7gw4VseHAAGIPtYMRqKogFbZfOZLum9BUT2w-fZtWk9O1-pmmeKq8-",
+      "domain": "freshbooks.com",
+      "snippet": "13 Steps on How to Start a Business (2025) · 1. Determine Your Business Idea · 2. Research Competitors and Market Trends · 3. Build Your ..."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": {
+     "text": "Starting a business involves moving from an initial concept to formal registration, funding, and launch. Develop and Validate Your Idea: Identify a product, service, or market gap that solves a clear customer problem. Research your target audience and study local competitors. Write a Business Plan: Create a traditional multi-page document or a one-page lean startup plan outlining your goals, products, target market, and financial projections. Choose a Business Structure: Decide on a legal format such as a sole proprietorship, partnership, limited liability company (LLC), or private limited company, which affects your taxes and personal liability. Secure Financing: Fund your operations through personal savings, bootstrapping, bank loans, government-backed initiatives like the Pradhan Mantri Mudra Yojana or Startup India, or angel investors. Register and License: Register your business name, obtain a tax identification number or PAN/GST where applicable, and acquire the necessary local trade or operational licenses. Set Up Finances and Operations: Open a dedicated small-business bank account, set up an accounting or POS system, and purchase required business insurance. Build a Brand and Launch: Establish a digital presence with a website or social media profile, execute your marketing plan, and start gathering customer feedback to iterate. For more structured guidance on step-by-step planning, you can explore the Coursera Business Guide or review framework insights from The Hartford Business Strategy Guide. Watch this guide for a breakdown of how to launch and structure your first business idea: If you tell me what type of business or industry you want to enter and your location, I can help you with specific registration requirements or funding options.",
+     "sources": [
+      {
+       "title": "10 Steps to Starting a Business | Coursera",
+       "link": "https://www.coursera.org/in/articles/start-a-business"
+      },
+      {
+       "title": "Starting a Small Business in India: Key Steps & Benefits",
+       "link": "https://www.indiafilings.com/learn/how-to-start-a-small-business"
+      },
+      {
+       "title": "How to Start a Business From Scratch in 7 Steps | The Hartford",
+       "link": "https://www.thehartford.com/business-insurance/strategy/how-to-start-a-business"
+      },
+      {
+       "title": "10-Step Guide to Starting Your Startup Business",
+       "link": "https://www.jpmorgan.com/insights/business-planning/10-step-guide-to-starting-your-startup-business"
+      },
+      {
+       "title": "How To Start A Business: A Step by Step Guide For 2026",
+       "link": "https://www.businessnewsdaily.com/4686-how-to-start-a-business.html"
+      },
+      {
+       "title": "Basic Guide To Start your own Business",
+       "link": "https://eodbmis.assam.gov.in/eodb/docs/pdf/set_up_business.pdf"
+      },
+      {
+       "title": "How to Start a Business in 10 Easy Steps | Startup Business",
+       "link": "https://www.thehartford.com/business-insurance/strategy/startup"
+      },
+      {
+       "title": "How to Start a Small Business (Step-by-Step Guide)",
+       "link": "https://www.adp.com/resources/articles-and-insights/articles/h/how-to-start-a-small-business-a-step-by-step-guide.aspx"
+      },
+      {
+       "title": "How to Start a Business (Even If You Have No Idea What to Do) | Q&A",
+       "link": "https://www.youtube.com/watch?v=6T5VY0sYJOo"
+      }
+     ]
+    },
+    "relatedQuestions": [
+     "Why is Gen Z so entrepreneurial?",
+     "Is it true that 90% of startups fail?",
+     "What are the top 3 skills in business?",
+     "Is $5000 enough to start a business?"
+    ],
+    "news": [],
+    "fromCache": false,
+    "warnings": []
+   }
+  },
+  {
+   "ok": true,
+   "data": {
+    "regionId": "bengaluru",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "7 Important Resources for Starting Your Own Business",
+      "link": "https://www.indianstartuptimes.com/international/7-important-resources-for-starting-your-own-business/",
+      "domain": "indianstartuptimes.com",
+      "snippet": "To spread the word about your business you need a solid marketing strategy and a plan to reach your customers. From getting a logo to creating a ..."
+     },
+     {
+      "position": 2,
+      "title": "How to Start a Business: A Step-by-Step Guide for Beginners",
+      "link": "https://www.youtube.com/watch?v=euFu_KRCX4s",
+      "domain": "youtube.com",
+      "snippet": "How to Start a Business: A Step-by-Step Guide for Beginners - YouTube"
+     },
+     {
+      "position": 3,
+      "title": "Checklist for Starting a Business (2026) — The 14 Key Steps",
+      "link": "https://www.stylefactoryproductions.com/how-to-start-a-business",
+      "domain": "stylefactoryproductions.com",
+      "snippet": "How to start a business — cheatsheet · Make sure your business idea is robust · Create a strong business plan · Choose a funding model · Pick a ..."
+     },
+     {
+      "position": 4,
+      "title": "Starting a Business | MD Mishal D'Souza| Michran Group",
+      "link": "https://www.youtube.com/watch?v=jCR10HFz8us",
+      "domain": "youtube.com",
+      "snippet": "What Is business, “Simple, genuine goodness is the best capital to found the business of this life upon. It lasts when fame and money fail, ..."
+     },
+     {
+      "position": 5,
+      "title": "Learn How to Start Your Company From Scratch - News",
+      "link": "https://news.badabusiness.com/process-business-expansion/learn-how-to-start-your-company-from-scratch-775.html",
+      "domain": "news.badabusiness.com",
+      "snippet": "Start a Company with Ease! ... After researching your business idea, the next phase is preparing a business plan that reflects steady & realistic ..."
+     },
+     {
+      "position": 6,
+      "title": "17 Steps to Starting a Small Business",
+      "link": "https://www.startupfino.com/blogs/17-steps-to-starting-a-small-business/",
+      "domain": "startupfino.com",
+      "snippet": "What are the 17 steps to Start a Small Business in India? · Research About the Business · Proper Business Plan · Proper Business Structure."
+     },
+     {
+      "position": 7,
+      "title": "13 Steps on How to Start a Business (2025)",
+      "link": "https://www.freshbooks.com/hub/business-management/how-to-start-a-business?srsltid=AU7gw4XToDKRvg7MwOpofIs0FKcGFBHRpKtY3tK7bcfywwGumippgOSn",
+      "domain": "freshbooks.com",
+      "snippet": "13 Steps on How to Start a Business (2025) · 1. Determine Your Business Idea · 2. Research Competitors and Market Trends · 3. Build Your ..."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": {
+     "text": "Starting a business involves moving from an initial concept to formal registration, funding, and launch. Develop and Validate Your Idea: Identify a product, service, or market gap that solves a clear customer problem. Research your target audience and study local competitors. Write a Business Plan: Create a traditional multi-page document or a one-page lean startup plan outlining your goals, products, target market, and financial projections. Choose a Business Structure: Decide on a legal format such as a sole proprietorship, partnership, limited liability company (LLC), or private limited company, which affects your taxes and personal liability. Secure Financing: Fund your operations through personal savings, bootstrapping, bank loans, government-backed initiatives like the Pradhan Mantri Mudra Yojana or Startup India, or angel investors. Register and License: Register your business name, obtain a tax identification number or PAN/GST where applicable, and acquire the necessary local trade or operational licenses. Set Up Finances and Operations: Open a dedicated small-business bank account, set up an accounting or POS system, and purchase required business insurance. Build a Brand and Launch: Establish a digital presence with a website or social media profile, execute your marketing plan, and start gathering customer feedback to iterate. For more structured guidance on step-by-step planning, you can explore the Coursera Business Guide or review framework insights from The Hartford Business Strategy Guide. Watch this guide for a breakdown of how to launch and structure your first business idea: If you tell me what type of business or industry you want to enter and your location, I can help you with specific registration requirements or funding options.",
+     "sources": [
+      {
+       "title": "10 Steps to Starting a Business | Coursera",
+       "link": "https://www.coursera.org/in/articles/start-a-business"
+      },
+      {
+       "title": "Starting a Small Business in India: Key Steps & Benefits",
+       "link": "https://www.indiafilings.com/learn/how-to-start-a-small-business"
+      },
+      {
+       "title": "How to Start a Business From Scratch in 7 Steps | The Hartford",
+       "link": "https://www.thehartford.com/business-insurance/strategy/how-to-start-a-business"
+      },
+      {
+       "title": "10-Step Guide to Starting Your Startup Business",
+       "link": "https://www.jpmorgan.com/insights/business-planning/10-step-guide-to-starting-your-startup-business"
+      },
+      {
+       "title": "How To Start A Business: A Step by Step Guide For 2026",
+       "link": "https://www.businessnewsdaily.com/4686-how-to-start-a-business.html"
+      },
+      {
+       "title": "Basic Guide To Start your own Business",
+       "link": "https://eodbmis.assam.gov.in/eodb/docs/pdf/set_up_business.pdf"
+      },
+      {
+       "title": "How to Start a Business in 10 Easy Steps | Startup Business",
+       "link": "https://www.thehartford.com/business-insurance/strategy/startup"
+      },
+      {
+       "title": "How to Start a Small Business (Step-by-Step Guide)",
+       "link": "https://www.adp.com/resources/articles-and-insights/articles/h/how-to-start-a-small-business-a-step-by-step-guide.aspx"
+      },
+      {
+       "title": "How to Start a Business (Even If You Have No Idea What to Do) | Q&A",
+       "link": "https://www.youtube.com/watch?v=6T5VY0sYJOo"
+      }
+     ]
+    },
+    "relatedQuestions": [
+     "Why is Gen Z so entrepreneurial?",
+     "Is it true that 90% of startups fail?",
+     "What are the top 3 skills in business?",
+     "Is $5000 enough to start a business?"
+    ],
+    "news": [],
+    "fromCache": true,
+    "warnings": []
+   }
+  }
+ ],
+ "analysis": {
+  "regions": [
+   "mumbai",
+   "delhi",
+   "chennai",
+   "kolkata",
+   "hyderabad",
+   "bengaluru"
+  ],
+  "pairs": [
+   {
+    "a": "mumbai",
+    "b": "delhi",
+    "urlJaccard": 0.2727272727272727,
+    "domainJaccard": 0.5,
+    "rankCorrelation": 0.5,
+    "sharedUrls": 3
+   },
+   {
+    "a": "mumbai",
+    "b": "chennai",
+    "urlJaccard": 0,
+    "domainJaccard": 0,
+    "rankCorrelation": null,
+    "sharedUrls": 0
+   },
+   {
+    "a": "mumbai",
+    "b": "kolkata",
+    "urlJaccard": 1,
+    "domainJaccard": 1,
+    "rankCorrelation": 0.8928571428571429,
+    "sharedUrls": 7
+   },
+   {
+    "a": "mumbai",
+    "b": "hyderabad",
+    "urlJaccard": 1,
+    "domainJaccard": 1,
+    "rankCorrelation": 0.8928571428571429,
+    "sharedUrls": 7
+   },
+   {
+    "a": "mumbai",
+    "b": "bengaluru",
+    "urlJaccard": 1,
+    "domainJaccard": 1,
+    "rankCorrelation": 0.8928571428571429,
+    "sharedUrls": 7
+   },
+   {
+    "a": "delhi",
+    "b": "chennai",
+    "urlJaccard": 0,
+    "domainJaccard": 0,
+    "rankCorrelation": null,
+    "sharedUrls": 0
+   },
+   {
+    "a": "delhi",
+    "b": "kolkata",
+    "urlJaccard": 0.2727272727272727,
+    "domainJaccard": 0.5,
+    "rankCorrelation": 0.5,
+    "sharedUrls": 3
+   },
+   {
+    "a": "delhi",
+    "b": "hyderabad",
+    "urlJaccard": 0.2727272727272727,
+    "domainJaccard": 0.5,
+    "rankCorrelation": 0.5,
+    "sharedUrls": 3
+   },
+   {
+    "a": "delhi",
+    "b": "bengaluru",
+    "urlJaccard": 0.2727272727272727,
+    "domainJaccard": 0.5,
+    "rankCorrelation": 0.5,
+    "sharedUrls": 3
+   },
+   {
+    "a": "chennai",
+    "b": "kolkata",
+    "urlJaccard": 0,
+    "domainJaccard": 0,
+    "rankCorrelation": null,
+    "sharedUrls": 0
+   },
+   {
+    "a": "chennai",
+    "b": "hyderabad",
+    "urlJaccard": 0,
+    "domainJaccard": 0,
+    "rankCorrelation": null,
+    "sharedUrls": 0
+   },
+   {
+    "a": "chennai",
+    "b": "bengaluru",
+    "urlJaccard": 0,
+    "domainJaccard": 0,
+    "rankCorrelation": null,
+    "sharedUrls": 0
+   },
+   {
+    "a": "kolkata",
+    "b": "hyderabad",
+    "urlJaccard": 1,
+    "domainJaccard": 1,
+    "rankCorrelation": 1,
+    "sharedUrls": 7
+   },
+   {
+    "a": "kolkata",
+    "b": "bengaluru",
+    "urlJaccard": 1,
+    "domainJaccard": 1,
+    "rankCorrelation": 1,
+    "sharedUrls": 7
+   },
+   {
+    "a": "hyderabad",
+    "b": "bengaluru",
+    "urlJaccard": 1,
+    "domainJaccard": 1,
+    "rankCorrelation": 1,
+    "sharedUrls": 7
+   }
+  ],
+  "perRegion": [
+   {
+    "regionId": "mumbai",
+    "divergence": 0.32727272727272727,
+    "uniqueDomains": []
+   },
+   {
+    "regionId": "delhi",
+    "divergence": 0.7090909090909091,
+    "uniqueDomains": [
+     "blog.hubspot.com",
+     "blog.deasra.in"
+    ]
+   },
+   {
+    "regionId": "chennai",
+    "divergence": 1,
+    "uniqueDomains": [
+     "en.wikipedia.org",
+     "business.google.com",
+     "forbes.com",
+     "investopedia.com",
+     "india.gov.in",
+     "sciencedirect.com",
+     "worldbank.org"
+    ]
+   },
+   {
+    "regionId": "kolkata",
+    "divergence": 0.32727272727272727,
+    "uniqueDomains": []
+   },
+   {
+    "regionId": "hyderabad",
+    "divergence": 0.32727272727272727,
+    "uniqueDomains": []
+   },
+   {
+    "regionId": "bengaluru",
+    "divergence": 0.32727272727272727,
+    "uniqueDomains": []
+   }
+  ],
+  "blindSpots": [
+   {
+    "url": "indianstartuptimes.com/international/7-important-resources-for-starting-your-own-business",
+    "title": "7 Important Resources for Starting Your Own Business",
+    "domain": "indianstartuptimes.com",
+    "bestRank": 1,
+    "rankedIn": [
+     "mumbai",
+     "delhi",
+     "kolkata",
+     "hyderabad",
+     "bengaluru"
+    ],
+    "missingIn": "chennai"
+   },
+   {
+    "url": "news.badabusiness.com/process-business-expansion/learn-how-to-start-your-company-from-scratch-775.html",
+    "title": "Learn How to Start Your Company From Scratch - News",
+    "domain": "news.badabusiness.com",
+    "bestRank": 5,
+    "rankedIn": [
+     "mumbai",
+     "delhi",
+     "kolkata",
+     "hyderabad",
+     "bengaluru"
+    ],
+    "missingIn": "chennai"
+   },
+   {
+    "url": "stylefactoryproductions.com/how-to-start-a-business",
+    "title": "Checklist for Starting a Business (2026) — The 14 Key Steps",
+    "domain": "stylefactoryproductions.com",
+    "bestRank": 1,
+    "rankedIn": [
+     "mumbai",
+     "kolkata",
+     "hyderabad",
+     "bengaluru"
+    ],
+    "missingIn": "delhi"
+   },
+   {
+    "url": "stylefactoryproductions.com/how-to-start-a-business",
+    "title": "Checklist for Starting a Business (2026) — The 14 Key Steps",
+    "domain": "stylefactoryproductions.com",
+    "bestRank": 1,
+    "rankedIn": [
+     "mumbai",
+     "kolkata",
+     "hyderabad",
+     "bengaluru"
+    ],
+    "missingIn": "chennai"
+   },
+   {
+    "url": "youtube.com/watch?v=euFu_KRCX4s",
+    "title": "How to Start a Business: A Step-by-Step Guide for Beginners",
+    "domain": "youtube.com",
+    "bestRank": 2,
+    "rankedIn": [
+     "mumbai",
+     "kolkata",
+     "hyderabad",
+     "bengaluru"
+    ],
+    "missingIn": "delhi"
+   },
+   {
+    "url": "youtube.com/watch?v=euFu_KRCX4s",
+    "title": "How to Start a Business: A Step-by-Step Guide for Beginners",
+    "domain": "youtube.com",
+    "bestRank": 2,
+    "rankedIn": [
+     "mumbai",
+     "kolkata",
+     "hyderabad",
+     "bengaluru"
+    ],
+    "missingIn": "chennai"
+   },
+   {
+    "url": "youtube.com/watch?v=jCR10HFz8us",
+    "title": "Starting a Business | MD Mishal D'Souza| Michran Group",
+    "domain": "youtube.com",
+    "bestRank": 4,
+    "rankedIn": [
+     "mumbai",
+     "kolkata",
+     "hyderabad",
+     "bengaluru"
+    ],
+    "missingIn": "delhi"
+   },
+   {
+    "url": "youtube.com/watch?v=jCR10HFz8us",
+    "title": "Starting a Business | MD Mishal D'Souza| Michran Group",
+    "domain": "youtube.com",
+    "bestRank": 4,
+    "rankedIn": [
+     "mumbai",
+     "kolkata",
+     "hyderabad",
+     "bengaluru"
+    ],
+    "missingIn": "chennai"
+   }
+  ],
+  "answerDivergence": {
+   "snippetDiffers": false,
+   "aiOverviewDiffers": true,
+   "value": 0.6
+  },
+  "score": 49,
+  "breakdown": {
+   "urlDistance": 0.5272727272727273,
+   "domainDistance": 0.4666666666666667,
+   "rankDisagreement": 0.4107142857142857,
+   "blindSpotPressure": 0.4444444444444444,
+   "answerDivergence": 0.6
+  },
+  "summary": "Across 6 regions this search scores 49/100 on divergence (noticeably different), with only 47% average URL overlap. Mumbai and Chennai agree least (0% shared URLs), and Chennai sits furthest from the consensus. 8 widely-ranked results never reach at least one region's top 10."
+ },
+ "insightSource": "template",
+ "usage": {
+  "used": 59,
+  "limit": 250,
+  "month": "2026-10"
+ },
+ "creditsUsed": 4,
+ "demo": true,
+ "createdAt": "2026-10-10T06:42:18.957Z"
+}

@@ -1,0 +1,313 @@
+{
+ "tool": "patents",
+ "query": "solar water purifier",
+ "groups": [
+  {
+   "label": "Patents and applications",
+   "items": [
+    {
+     "title": "Device for sea water desalting and method of using of solar energy for …",
+     "link": "https://patents.google.com/patent/RU2603799C1/en",
+     "source": "Чжунин Чанцзян Интернэшнл Нью Энерджи Инвестмент Ко., Лтд · Илун ЧЭНЬ",
+     "snippet": "FIELD: hydraulic engineering. SUBSTANCE: invention relates to a device and a method for sea water desalting using solar energy for continuous supply of heat and to scope of sea water desalting (including desalting of internal brackish wate…",
+     "open": true,
+     "badges": [
+      {
+       "label": "Granted",
+       "tone": "good"
+      }
+     ],
+     "facts": [
+      {
+       "label": "Number",
+       "value": "RU2603799C1"
+      },
+      {
+       "label": "Priority",
+       "value": "2012-12-25"
+      },
+      {
+       "label": "Filed",
+       "value": "2013-11-15"
+      },
+      {
+       "label": "Granted",
+       "value": "2016-11-27"
+      }
+     ]
+    },
+    {
+     "title": "Horizontal solar membrane distiller for vacuum and direct contact",
+     "link": "https://patents.google.com/patent/CN101693559A/en",
+     "source": "浙江大学 · 陈欢林",
+     "snippet": "The invention discloses a vacuum or direct contact dual-purpose horizontal solar membrane distillation device, which includes a membrane module, a thermal working medium heating system and a cold working medium cooling system. The hot side…",
+     "open": true,
+     "badges": [
+      {
+       "label": "Application",
+       "tone": "info"
+      }
+     ],
+     "facts": [
+      {
+       "label": "Number",
+       "value": "CN101693559A"
+      },
+      {
+       "label": "Priority",
+       "value": "2009-10-22"
+      },
+      {
+       "label": "Filed",
+       "value": "2009-10-22"
+      }
+     ]
+    },
+    {
+     "title": "Water Production Employing a Hydrogen Cycle",
+     "link": "https://patents.google.com/patent/US20200006942A1/en",
+     "source": "Lawrence D. Lansing P.E. · Lawrence D. Lansing P.E.",
+     "snippet": "A system for producing potable water from a non-potable water source includes a renewable energy power generator, a water purifier fluidly connected to the non-potable water source for providing the potable water, and electrically coupled …",
+     "open": true,
+     "badges": [
+      {
+       "label": "Application",
+       "tone": "info"
+      }
+     ],
+     "facts": [
+      {
+       "label": "Number",
+       "value": "US20200006942A1"
+      },
+      {
+       "label": "Priority",
+       "value": "2013-03-13"
+      },
+      {
+       "label": "Filed",
+       "value": "2019-07-01"
+      }
+     ]
+    },
+    {
+     "title": "Energy independent power generation system for fish farms in inland waters",
+     "link": "https://patents.google.com/patent/CN115917804A/en",
+     "source": "釜庆大学校产学协力团 · 金暻会",
+     "snippet": "The present invention relates to an energy independent power generation system for an inland water fish farm, and more particularly, to an energy independent power generation system for an inland water fish farm, which is configured to sto…",
+     "open": true,
+     "badges": [
+      {
+       "label": "Application",
+       "tone": "info"
+      }
+     ],
+     "facts": [
+      {
+       "label": "Number",
+       "value": "CN115917804A"
+      },
+      {
+       "label": "Priority",
+       "value": "2020-07-13"
+      },
+      {
+       "label": "Filed",
+       "value": "2020-07-24"
+      }
+     ]
+    },
+    {
+     "title": "Portable fire control unit is used in photovoltaic power plant on water",
+     "link": "https://patents.google.com/patent/CN218305894U/en",
+     "source": "华能国际电力股份有限公司德州电厂 · 李寰",
+     "snippet": "The utility model discloses a photovoltaic power plant on water uses portable fire control unit, the device comprises a device main body, the supporting seat is installed to bottom surface one side symmetry in the device main part, two the…",
+     "open": true,
+     "badges": [
+      {
+       "label": "Granted",
+       "tone": "good"
+      }
+     ],
+     "facts": [
+      {
+       "label": "Number",
+       "value": "CN218305894U"
+      },
+      {
+       "label": "Priority",
+       "value": "2022-09-20"
+      },
+      {
+       "label": "Filed",
+       "value": "2022-09-20"
+      },
+      {
+       "label": "Granted",
+       "value": "2023-01-17"
+      }
+     ]
+    },
+    {
+     "title": "Solar seawater purification power generating device",
+     "link": "https://patents.google.com/patent/CN103663828A/en",
+     "source": "凌春林 · 凌春林",
+     "snippet": "The invention relates to a solar seawater purification power generating device which is used for purifying the seawater by utilizing the solar energy and converting the heat energy of the water into the electric power, and a generator can …",
+     "open": true,
+     "badges": [
+      {
+       "label": "Application",
+       "tone": "info"
+      }
+     ],
+     "facts": [
+      {
+       "label": "Number",
+       "value": "CN103663828A"
+      },
+      {
+       "label": "Priority",
+       "value": "2012-09-11"
+      },
+      {
+       "label": "Filed",
+       "value": "2012-09-11"
+      }
+     ]
+    },
+    {
+     "title": "Environment-friendly energy-saving seawater desalination and sewage …",
+     "link": "https://patents.google.com/patent/CN101746839A/en",
+     "source": "李新贵 · 李新贵",
+     "snippet": "An environment-friendly energy-saving seawater desalination and sewage purification device comprises a water colleting tank which is provided with a water inlet, an overflow port, a drainage outlet and a purified water outlet, a transparen…",
+     "open": true,
+     "badges": [
+      {
+       "label": "Application",
+       "tone": "info"
+      }
+     ],
+     "facts": [
+      {
+       "label": "Number",
+       "value": "CN101746839A"
+      },
+      {
+       "label": "Priority",
+       "value": "2009-12-15"
+      },
+      {
+       "label": "Filed",
+       "value": "2009-12-15"
+      }
+     ]
+    },
+    {
+     "title": "Concentrating solar power system",
+     "link": "https://patents.google.com/patent/CN201661433U/en",
+     "source": "张卫 · 张卫",
+     "snippet": "The utility model relates to a concentrating solar energy power generation system, which includes a light reflection system, a light energy receiver and a power generation device. The light reflection system includes a mirror array, and th…",
+     "open": true,
+     "badges": [
+      {
+       "label": "Granted",
+       "tone": "good"
+      }
+     ],
+     "facts": [
+      {
+       "label": "Number",
+       "value": "CN201661433U"
+      },
+      {
+       "label": "Priority",
+       "value": "2009-11-11"
+      },
+      {
+       "label": "Filed",
+       "value": "2009-11-11"
+      },
+      {
+       "label": "Granted",
+       "value": "2010-12-01"
+      }
+     ]
+    },
+    {
+     "title": "Solar energy water desalination device",
+     "link": "https://patents.google.com/patent/CN213037442U/en",
+     "source": "中国科学技术大学 · 司志伟",
+     "snippet": "The utility model discloses a solar energy desalination water device, which comprises a first water supply device, an evaporation pipeline, a solar energy concentrating device and a distilled water storage device. The evaporation pipeline …",
+     "open": true,
+     "badges": [
+      {
+       "label": "Granted",
+       "tone": "good"
+      }
+     ],
+     "facts": [
+      {
+       "label": "Number",
+       "value": "CN213037442U"
+      },
+      {
+       "label": "Priority",
+       "value": "2020-07-09"
+      },
+      {
+       "label": "Filed",
+       "value": "2020-07-09"
+      },
+      {
+       "label": "Granted",
+       "value": "2021-04-23"
+      }
+     ]
+    },
+    {
+     "title": "Cleaning system for optically transparent surfaces",
+     "link": "https://patents.google.com/patent/US20100300496A1/en",
+     "source": "Alfred Souza · Alfred Souza",
+     "snippet": "Embodiments of the invention are directed to cleaning systems for optically transparent surfaces. In one embodiment, the system includes a reservoir integrally connected to (a) a non-recycled fluid transfer line and (b) a recycled fluid tr…",
+     "open": true,
+     "badges": [
+      {
+       "label": "Application",
+       "tone": "info"
+      }
+     ],
+     "facts": [
+      {
+       "label": "Number",
+       "value": "US20100300496A1"
+      },
+      {
+       "label": "Priority",
+       "value": "2009-05-26"
+      },
+      {
+       "label": "Filed",
+       "value": "2010-05-21"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "stats": [
+  {
+   "label": "Patents found",
+   "value": "10"
+  },
+  {
+   "label": "Granted",
+   "value": "40%"
+  }
+ ],
+ "notes": [
+  "Many close matches: your idea may need a clearer difference. Consult a patent attorney."
+ ],
+ "creditsUsed": 0,
+ "demo": true,
+ "createdAt": "2026-10-10T06:49:19.475Z"
+}

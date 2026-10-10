@@ -1,0 +1,738 @@
+{
+ "query": "is tap water safe to drink",
+ "langMode": "english",
+ "outcomes": [
+  {
+   "ok": true,
+   "data": {
+    "regionId": "mumbai",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "Ask Mom Detective: How Can I Tell If Tap Water Is Safe to ...",
+      "link": "https://www.momscleanairforce.org/mom-detective-tap-water/",
+      "domain": "momscleanairforce.org",
+      "snippet": "After testing, most tap water only needs an activated carbon filter. Various filters reduce substances like chlorine, lead, copper, benzene, ..."
+     },
+     {
+      "position": 2,
+      "title": "Tap water is safe for drinking and cooking, so you'd think it ...",
+      "link": "https://www.facebook.com/OSUWexnerMedicalCenter/posts/tap-water-is-safe-for-drinking-and-cooking-so-youd-think-it-would-be-good-for-ot/10160033476544022/",
+      "domain": "facebook.com",
+      "snippet": "Tap water is safe for drinking and cooking, so you’d think it would be good for other uses, too — but not so fast."
+     },
+     {
+      "position": 3,
+      "title": "Is Tap Water Safer to Drink Than Bottled ...",
+      "link": "https://www.foodandwine.com/is-tap-water-safe-to-drink-study-8773069",
+      "domain": "foodandwine.com",
+      "snippet": "While tap and bottled water isn't perfect, experts say drinking from the tap is usually the better choice. “By and large, tap water is safe,” ..."
+     },
+     {
+      "position": 4,
+      "title": "Is Tap Water Safe to Drink?",
+      "link": "https://www.aquasana.com/info/is-your-tap-water-safe-pd.html?srsltid=AU7gw4W1hSM_HrYN5bBQVre3u4MtM8BgnF1Ah3uIWlQhEyv9N-xsYPb9",
+      "domain": "aquasana.com",
+      "snippet": "To answer the question, most tap water is considered safe to drink according to government standards. But insufficient standards and the growing discovery of ..."
+     },
+     {
+      "position": 5,
+      "title": "Making Your Tap Water Safe to Drink - Mineral Pro",
+      "link": "https://mineralpro.com/blog/making-your-tap-water-safe-to-drink/",
+      "domain": "mineralpro.com",
+      "snippet": "Simply put, Mineral Alkaline water is a much better water for drinking than mineral deficient, acidic water. The final component in our last stage of filtering ..."
+     },
+     {
+      "position": 6,
+      "title": "Tap Water - an overview",
+      "link": "https://www.sciencedirect.com/topics/medicine-and-dentistry/tap-water",
+      "domain": "sciencedirect.com",
+      "snippet": "Tap water is a safe, cheap, convenient, and environmentally friendly alternative to bottles of sterile saline.34"
+     },
+     {
+      "position": 7,
+      "title": "How do you drink tap water safely?",
+      "link": "https://www.quora.com/How-do-you-drink-tap-water-safely",
+      "domain": "quora.com",
+      "snippet": "How do you drink tap water safely?"
+     },
+     {
+      "position": 8,
+      "title": "Drinking water safety",
+      "link": "https://healthify.nz/hauora-wellbeing/d/drinking-water-safety",
+      "domain": "healthify.nz",
+      "snippet": "Turning on the tap and having a glass of water shouldn't be a hazardous activity. Much of New Zealand's drinking water has chlorine added that ..."
+     },
+     {
+      "position": 9,
+      "title": "Is my tap water safe to drink?",
+      "link": "https://www.embracerelief.org/is-my-tap-water-safe-to-drink/",
+      "domain": "embracerelief.org",
+      "snippet": "In most urban and suburban areas of the United States, tap water is generally safe to drink because it is supplied by municipal water systems ..."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": null,
+    "relatedQuestions": [
+     "Can I drink water from my tap?",
+     "How long after you drink do you pee?",
+     "What is the 10 gulp rule?",
+     "Is bottled water safer than tap water?"
+    ],
+    "news": [],
+    "fromCache": true,
+    "warnings": []
+   }
+  },
+  {
+   "ok": true,
+   "data": {
+    "regionId": "delhi",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "Is Tap Water Safer to Drink Than Bottled ...",
+      "link": "https://www.foodandwine.com/is-tap-water-safe-to-drink-study-8773069",
+      "domain": "foodandwine.com",
+      "snippet": "While tap and bottled water isn't perfect, experts say drinking from the tap is usually the better choice. “By and large, tap water is safe,” ..."
+     },
+     {
+      "position": 2,
+      "title": "Tap water is safe for drinking and cooking, so you'd think it ...",
+      "link": "https://www.facebook.com/OSUWexnerMedicalCenter/posts/tap-water-is-safe-for-drinking-and-cooking-so-youd-think-it-would-be-good-for-ot/10160033476544022/",
+      "domain": "facebook.com",
+      "snippet": "Tap water is safe for drinking and cooking, so you’d think it would be good for other uses, too — but not so fast."
+     },
+     {
+      "position": 3,
+      "title": "Is Tap Water Safe to Drink?",
+      "link": "https://www.aquasana.com/info/is-your-tap-water-safe-pd.html?srsltid=AU7gw4UNHFJRCqjRiPFnHNeFTgB_SiFFU5R6CEVVNuPmbxT_slm14uVz",
+      "domain": "aquasana.com",
+      "snippet": "To answer the question, most tap water is considered safe to drink according to government standards. But insufficient standards and the growing discovery of ..."
+     },
+     {
+      "position": 4,
+      "title": "Making Your Tap Water Safe to Drink - Mineral Pro",
+      "link": "https://mineralpro.com/blog/making-your-tap-water-safe-to-drink/",
+      "domain": "mineralpro.com",
+      "snippet": "Simply put, Mineral Alkaline water is a much better water for drinking than mineral deficient, acidic water. The final component in our last stage of filtering ..."
+     },
+     {
+      "position": 5,
+      "title": "Tap Water - an overview",
+      "link": "https://www.sciencedirect.com/topics/medicine-and-dentistry/tap-water",
+      "domain": "sciencedirect.com",
+      "snippet": "Tap water is a safe, cheap, convenient, and environmentally friendly alternative to bottles of sterile saline.34"
+     },
+     {
+      "position": 6,
+      "title": "How do you drink tap water safely?",
+      "link": "https://www.quora.com/How-do-you-drink-tap-water-safely",
+      "domain": "quora.com",
+      "snippet": "How do you drink tap water safely?"
+     },
+     {
+      "position": 7,
+      "title": "How safe is your tap water to drink?",
+      "link": "https://www.thirstywork.com/articles/how-safe-is-your-tap-water-to-drink",
+      "domain": "thirstywork.com",
+      "snippet": "99.95% of public water complied with the standards, meaning a tiny proportion of tap water in the UK, was deemed unsafe to drink."
+     },
+     {
+      "position": 8,
+      "title": "Is my tap water safe to drink?",
+      "link": "https://www.embracerelief.org/is-my-tap-water-safe-to-drink/",
+      "domain": "embracerelief.org",
+      "snippet": "In most urban and suburban areas of the United States, tap water is generally safe to drink because it is supplied by municipal water systems ..."
+     },
+     {
+      "position": 9,
+      "title": "Tap Water vs. Bottled Water: Which Is Better?",
+      "link": "https://www.healthline.com/nutrition/tap-water-vs-bottled-water",
+      "domain": "healthline.com",
+      "snippet": "While contaminated drinking water is an issue in some regions, tap water is generally safe, convenient, and environmentally friendly. Safety ..."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": null,
+    "relatedQuestions": [
+     "Is it okay to drink your tap water?",
+     "How long after you drink do you pee?",
+     "What is the 10 gulp rule?",
+     "Does boiling tap water purify it?"
+    ],
+    "news": [],
+    "fromCache": false,
+    "warnings": []
+   }
+  },
+  {
+   "ok": true,
+   "data": {
+    "regionId": "chennai",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "Is Tap Water Safe in India? Risks, Facts & Safe Drinking Tips",
+      "link": "https://www.payrentz.com/blogs/is-tap-water-safe-to-drink-in-india",
+      "domain": "payrentz.com",
+      "snippet": "This is a question almost every household in India has asked at some point. And the truth is, there isn't a simple yes or no answer."
+     },
+     {
+      "position": 2,
+      "title": "Ask Mom Detective: How Can I Tell If Tap Water Is Safe to ...",
+      "link": "https://www.momscleanairforce.org/mom-detective-tap-water/",
+      "domain": "momscleanairforce.org",
+      "snippet": "After testing, most tap water only needs an activated carbon filter. Various filters reduce substances like chlorine, lead, copper, benzene, ..."
+     },
+     {
+      "position": 3,
+      "title": "Tap water is safe for drinking and cooking, so you'd think it ...",
+      "link": "https://www.facebook.com/OSUWexnerMedicalCenter/posts/tap-water-is-safe-for-drinking-and-cooking-so-youd-think-it-would-be-good-for-ot/10160033476544022/",
+      "domain": "facebook.com",
+      "snippet": "Tap water is safe for drinking and cooking, so you’d think it would be good for other uses, too — but not so fast."
+     },
+     {
+      "position": 4,
+      "title": "Is Tap Water Safer to Drink Than Bottled ...",
+      "link": "https://www.foodandwine.com/is-tap-water-safe-to-drink-study-8773069",
+      "domain": "foodandwine.com",
+      "snippet": "While tap and bottled water isn't perfect, experts say drinking from the tap is usually the better choice. “By and large, tap water is safe,” ..."
+     },
+     {
+      "position": 5,
+      "title": "Is Tap Water Safe to Drink?",
+      "link": "https://www.aquasana.com/info/is-your-tap-water-safe-pd.html?srsltid=AU7gw4Xq5_A2A6vq9IiZ-gSO0T30wbY6m2Mwt4XpZNzpPsGJ0VkAKDCo",
+      "domain": "aquasana.com",
+      "snippet": "To answer the question, most tap water is considered safe to drink according to government standards. But insufficient standards and the growing discovery of ..."
+     },
+     {
+      "position": 6,
+      "title": "Making Your Tap Water Safe to Drink - Mineral Pro",
+      "link": "https://mineralpro.com/blog/making-your-tap-water-safe-to-drink/",
+      "domain": "mineralpro.com",
+      "snippet": "Simply put, Mineral Alkaline water is a much better water for drinking than mineral deficient, acidic water. The final component in our last stage of filtering ..."
+     },
+     {
+      "position": 7,
+      "title": "Tap Water - an overview",
+      "link": "https://www.sciencedirect.com/topics/medicine-and-dentistry/tap-water",
+      "domain": "sciencedirect.com",
+      "snippet": "Tap water is a potential reservoir of nosocomial pathogens. Besides, water supply is contaminated or interrupted in many hospitals (34–37)."
+     },
+     {
+      "position": 8,
+      "title": "How do you drink tap water safely?",
+      "link": "https://www.quora.com/How-do-you-drink-tap-water-safely",
+      "domain": "quora.com",
+      "snippet": "How do you drink tap water safely?"
+     },
+     {
+      "position": 9,
+      "title": "Drinking water safety",
+      "link": "https://healthify.nz/hauora-wellbeing/d/drinking-water-safety",
+      "domain": "healthify.nz",
+      "snippet": "Key points about drinking water safety. Turning on the tap and having a glass of water shouldn't be a hazardous activity for us Kiwis."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": null,
+    "relatedQuestions": [
+     "Is it okay to drink your tap water?",
+     "How long after you drink do you pee?",
+     "What is the 10 gulp rule?",
+     "Does boiling tap water purify it?"
+    ],
+    "news": [],
+    "fromCache": false,
+    "warnings": []
+   }
+  },
+  {
+   "ok": true,
+   "data": {
+    "regionId": "kolkata",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "Is Tap Water Safer to Drink Than Bottled ...",
+      "link": "https://www.foodandwine.com/is-tap-water-safe-to-drink-study-8773069",
+      "domain": "foodandwine.com",
+      "snippet": "While tap and bottled water isn't perfect, experts say drinking from the tap is usually the better choice. “By and large, tap water is safe,” ..."
+     },
+     {
+      "position": 2,
+      "title": "Tap water is safe for drinking and cooking, so you'd think it ...",
+      "link": "https://www.facebook.com/OSUWexnerMedicalCenter/posts/tap-water-is-safe-for-drinking-and-cooking-so-youd-think-it-would-be-good-for-ot/10160033476544022/",
+      "domain": "facebook.com",
+      "snippet": "Tap water is safe for drinking and cooking, so you’d think it would be good for other uses, too — but not so fast."
+     },
+     {
+      "position": 3,
+      "title": "Is Tap Water Safe to Drink?",
+      "link": "https://www.aquasana.com/info/is-your-tap-water-safe-pd.html?srsltid=AU7gw4XK_eoPaWdzv-OZn2RCVyi4dAUTYpB9iF-Ye3YX4TBBQ0A5VYzM",
+      "domain": "aquasana.com",
+      "snippet": "To answer the question, most tap water is considered safe to drink according to government standards. But insufficient standards and the growing discovery of ..."
+     },
+     {
+      "position": 4,
+      "title": "Making Your Tap Water Safe to Drink - Mineral Pro",
+      "link": "https://mineralpro.com/blog/making-your-tap-water-safe-to-drink/",
+      "domain": "mineralpro.com",
+      "snippet": "Simply put, Mineral Alkaline water is a much better water for drinking than mineral deficient, acidic water. The final component in our last stage of filtering ..."
+     },
+     {
+      "position": 5,
+      "title": "Tap Water - an overview",
+      "link": "https://www.sciencedirect.com/topics/medicine-and-dentistry/tap-water",
+      "domain": "sciencedirect.com",
+      "snippet": "Tap water is a safe, cheap, convenient, and environmentally friendly alternative to bottles of sterile saline.34"
+     },
+     {
+      "position": 6,
+      "title": "How do you drink tap water safely?",
+      "link": "https://www.quora.com/How-do-you-drink-tap-water-safely",
+      "domain": "quora.com",
+      "snippet": "How do you drink tap water safely?"
+     },
+     {
+      "position": 7,
+      "title": "How safe is your tap water to drink?",
+      "link": "https://www.thirstywork.com/articles/how-safe-is-your-tap-water-to-drink",
+      "domain": "thirstywork.com",
+      "snippet": "99.95% of public water complied with the standards, meaning a tiny proportion of tap water in the UK, was deemed unsafe to drink."
+     },
+     {
+      "position": 8,
+      "title": "Is my tap water safe to drink?",
+      "link": "https://www.embracerelief.org/is-my-tap-water-safe-to-drink/",
+      "domain": "embracerelief.org",
+      "snippet": "In most urban and suburban areas of the United States, tap water is generally safe to drink because it is supplied by municipal water systems ..."
+     },
+     {
+      "position": 9,
+      "title": "Tap Water vs. Bottled Water: Which Is Better?",
+      "link": "https://www.healthline.com/nutrition/tap-water-vs-bottled-water",
+      "domain": "healthline.com",
+      "snippet": "While contaminated drinking water is an issue in some regions, tap water is generally safe, convenient, and environmentally friendly. Safety ..."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": null,
+    "relatedQuestions": [
+     "Is it okay to drink your tap water?",
+     "How long after you drink do you pee?",
+     "What is the 10 gulp rule?",
+     "Does boiling tap water purify it?"
+    ],
+    "news": [],
+    "fromCache": false,
+    "warnings": []
+   }
+  },
+  {
+   "ok": true,
+   "data": {
+    "regionId": "hyderabad",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "Side Effects of Drinking Tap Water",
+      "link": "https://www.culligan.com/blog/side-effects-of-drinking-tap-water",
+      "domain": "culligan.com",
+      "snippet": "It all depends on what's in your tap water. Make your tap water more reliable. Although tap water is generally safe, issues can still remain."
+     },
+     {
+      "position": 2,
+      "title": "Ask Mom Detective: How Can I Tell If Tap Water Is Safe to ...",
+      "link": "https://www.momscleanairforce.org/mom-detective-tap-water/",
+      "domain": "momscleanairforce.org",
+      "snippet": "After testing, most tap water only needs an activated carbon filter. Various filters reduce substances like chlorine, lead, copper, benzene, ..."
+     },
+     {
+      "position": 3,
+      "title": "Is tap water in the United States safe to drink? If not, why do ...",
+      "link": "https://www.quora.com/Is-tap-water-in-the-United-States-safe-to-drink-If-not-why-do-utilities-continue-to-charge-for-it",
+      "domain": "quora.com",
+      "snippet": "Is tap water in the United States safe to drink? If not, why do utilities continue to charge for it?"
+     },
+     {
+      "position": 4,
+      "title": "Tap water is safe for drinking and cooking, so you'd think it ...",
+      "link": "https://www.facebook.com/OSUWexnerMedicalCenter/posts/tap-water-is-safe-for-drinking-and-cooking-so-youd-think-it-would-be-good-for-ot/10160033476544022/",
+      "domain": "facebook.com",
+      "snippet": "Tap water is safe for drinking and cooking, so you’d think it would be good for other uses, too — but not so fast."
+     },
+     {
+      "position": 5,
+      "title": "5 myths: how safe is drinking water from the tap really?",
+      "link": "https://www.schell.eu/en-en/blog/closeup-blog/5-myths-how-safe-is-drinking-water-from-the-tap-really/",
+      "domain": "schell.eu",
+      "snippet": "Myth 3: “Warm tap water is not safe to drink.” · Fact check: It all depends on day-to-day operations. · Verdict: Warm water is not necessarily unsafe to drink."
+     },
+     {
+      "position": 6,
+      "title": "Is Tap Water Safer to Drink Than Bottled ...",
+      "link": "https://www.foodandwine.com/is-tap-water-safe-to-drink-study-8773069",
+      "domain": "foodandwine.com",
+      "snippet": "While tap and bottled water isn't perfect, experts say drinking from the tap is usually the better choice. “By and large, tap water is safe,” ..."
+     },
+     {
+      "position": 7,
+      "title": "Making Your Tap Water Safe to Drink - Mineral Pro",
+      "link": "https://mineralpro.com/blog/making-your-tap-water-safe-to-drink/",
+      "domain": "mineralpro.com",
+      "snippet": "Simply put, Mineral Alkaline water is a much better water for drinking than mineral deficient, acidic water. The final component in our last stage of filtering ..."
+     },
+     {
+      "position": 8,
+      "title": "Tap Water - an overview",
+      "link": "https://www.sciencedirect.com/topics/medicine-and-dentistry/tap-water",
+      "domain": "sciencedirect.com",
+      "snippet": "Tap water is a safe, cheap, convenient, and environmentally friendly alternative to bottles of sterile saline.34"
+     },
+     {
+      "position": 9,
+      "title": "Drinking water safety",
+      "link": "https://healthify.nz/hauora-wellbeing/d/drinking-water-safety",
+      "domain": "healthify.nz",
+      "snippet": "Key points about drinking water safety. Turning on the tap and having a glass of water shouldn't be a hazardous activity for us Kiwis."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": null,
+    "relatedQuestions": [
+     "Is it okay to drink your tap water?",
+     "How long after you drink do you pee?",
+     "What is the 10 gulp rule?",
+     "Is Cleveland tap water safe to drink?"
+    ],
+    "news": [],
+    "fromCache": false,
+    "warnings": []
+   }
+  },
+  {
+   "ok": true,
+   "data": {
+    "regionId": "bengaluru",
+    "hl": "en",
+    "organic": [
+     {
+      "position": 1,
+      "title": "Ask Mom Detective: How Can I Tell If Tap Water Is Safe to ...",
+      "link": "https://www.momscleanairforce.org/mom-detective-tap-water/",
+      "domain": "momscleanairforce.org",
+      "snippet": "After testing, most tap water only needs an activated carbon filter. Various filters reduce substances like chlorine, lead, copper, benzene, ..."
+     },
+     {
+      "position": 2,
+      "title": "Tap water is safe for drinking and cooking, so you'd think it ...",
+      "link": "https://www.facebook.com/OSUWexnerMedicalCenter/posts/tap-water-is-safe-for-drinking-and-cooking-so-youd-think-it-would-be-good-for-ot/10160033476544022/",
+      "domain": "facebook.com",
+      "snippet": "Tap water is safe for drinking and cooking, so you’d think it would be good for other uses, too — but not so fast."
+     },
+     {
+      "position": 3,
+      "title": "Is Tap Water Safer to Drink Than Bottled ...",
+      "link": "https://www.foodandwine.com/is-tap-water-safe-to-drink-study-8773069",
+      "domain": "foodandwine.com",
+      "snippet": "While tap and bottled water isn't perfect, experts say drinking from the tap is usually the better choice. “By and large, tap water is safe,” ..."
+     },
+     {
+      "position": 4,
+      "title": "Is Tap Water Safe to Drink?",
+      "link": "https://www.aquasana.com/info/is-your-tap-water-safe-pd.html?srsltid=AU7gw4XwTT2Bykup2xMu7m21jCy5lPwSMUQWmAgFziTbI7690hGGBO32",
+      "domain": "aquasana.com",
+      "snippet": "To answer the question, most tap water is considered safe to drink according to government standards. But insufficient standards and the growing discovery of ..."
+     },
+     {
+      "position": 5,
+      "title": "Making Your Tap Water Safe to Drink - Mineral Pro",
+      "link": "https://mineralpro.com/blog/making-your-tap-water-safe-to-drink/",
+      "domain": "mineralpro.com",
+      "snippet": "Simply put, Mineral Alkaline water is a much better water for drinking than mineral deficient, acidic water. The final component in our last stage of filtering ..."
+     },
+     {
+      "position": 6,
+      "title": "Tap Water - an overview",
+      "link": "https://www.sciencedirect.com/topics/medicine-and-dentistry/tap-water",
+      "domain": "sciencedirect.com",
+      "snippet": "Tap water is a potential reservoir of nosocomial pathogens. Besides, water supply is contaminated or interrupted in many hospitals (34–37)."
+     },
+     {
+      "position": 7,
+      "title": "How do you drink tap water safely?",
+      "link": "https://www.quora.com/How-do-you-drink-tap-water-safely",
+      "domain": "quora.com",
+      "snippet": "How do you drink tap water safely?"
+     },
+     {
+      "position": 8,
+      "title": "Drinking water safety",
+      "link": "https://healthify.nz/hauora-wellbeing/d/drinking-water-safety",
+      "domain": "healthify.nz",
+      "snippet": "Key points about drinking water safety. Turning on the tap and having a glass of water shouldn't be a hazardous activity for us Kiwis."
+     },
+     {
+      "position": 9,
+      "title": "Is my tap water safe to drink?",
+      "link": "https://www.embracerelief.org/is-my-tap-water-safe-to-drink/",
+      "domain": "embracerelief.org",
+      "snippet": "In most urban and suburban areas of the United States, tap water is generally safe to drink because it is supplied by municipal water systems ..."
+     }
+    ],
+    "answerBox": null,
+    "aiOverview": null,
+    "relatedQuestions": [
+     "Can I drink water from my tap?",
+     "How long after you drink do you pee?",
+     "What is the 10 gulp rule?",
+     "Is bottled water safer than tap water?"
+    ],
+    "news": [],
+    "fromCache": true,
+    "warnings": []
+   }
+  }
+ ],
+ "analysis": {
+  "regions": [
+   "mumbai",
+   "delhi",
+   "chennai",
+   "kolkata",
+   "hyderabad",
+   "bengaluru"
+  ],
+  "pairs": [
+   {
+    "a": "mumbai",
+    "b": "delhi",
+    "urlJaccard": 0.6363636363636364,
+    "domainJaccard": 0.6363636363636364,
+    "rankCorrelation": 0.9642857142857143,
+    "sharedUrls": 7
+   },
+   {
+    "a": "mumbai",
+    "b": "chennai",
+    "urlJaccard": 0.8,
+    "domainJaccard": 0.8,
+    "rankCorrelation": 1,
+    "sharedUrls": 8
+   },
+   {
+    "a": "mumbai",
+    "b": "kolkata",
+    "urlJaccard": 0.6363636363636364,
+    "domainJaccard": 0.6363636363636364,
+    "rankCorrelation": 0.9642857142857143,
+    "sharedUrls": 7
+   },
+   {
+    "a": "mumbai",
+    "b": "hyderabad",
+    "urlJaccard": 0.5,
+    "domainJaccard": 0.6363636363636364,
+    "rankCorrelation": 1,
+    "sharedUrls": 6
+   },
+   {
+    "a": "mumbai",
+    "b": "bengaluru",
+    "urlJaccard": 1,
+    "domainJaccard": 1,
+    "rankCorrelation": 1,
+    "sharedUrls": 9
+   },
+   {
+    "a": "delhi",
+    "b": "chennai",
+    "urlJaccard": 0.5,
+    "domainJaccard": 0.5,
+    "rankCorrelation": 0.9428571428571428,
+    "sharedUrls": 6
+   },
+   {
+    "a": "delhi",
+    "b": "kolkata",
+    "urlJaccard": 1,
+    "domainJaccard": 1,
+    "rankCorrelation": 1,
+    "sharedUrls": 9
+   },
+   {
+    "a": "delhi",
+    "b": "hyderabad",
+    "urlJaccard": 0.2857142857142857,
+    "domainJaccard": 0.38461538461538464,
+    "rankCorrelation": 0.8,
+    "sharedUrls": 4
+   },
+   {
+    "a": "delhi",
+    "b": "bengaluru",
+    "urlJaccard": 0.6363636363636364,
+    "domainJaccard": 0.6363636363636364,
+    "rankCorrelation": 0.9642857142857143,
+    "sharedUrls": 7
+   },
+   {
+    "a": "chennai",
+    "b": "kolkata",
+    "urlJaccard": 0.5,
+    "domainJaccard": 0.5,
+    "rankCorrelation": 0.9428571428571428,
+    "sharedUrls": 6
+   },
+   {
+    "a": "chennai",
+    "b": "hyderabad",
+    "urlJaccard": 0.5,
+    "domainJaccard": 0.6363636363636364,
+    "rankCorrelation": 1,
+    "sharedUrls": 6
+   },
+   {
+    "a": "chennai",
+    "b": "bengaluru",
+    "urlJaccard": 0.8,
+    "domainJaccard": 0.8,
+    "rankCorrelation": 1,
+    "sharedUrls": 8
+   },
+   {
+    "a": "kolkata",
+    "b": "hyderabad",
+    "urlJaccard": 0.2857142857142857,
+    "domainJaccard": 0.38461538461538464,
+    "rankCorrelation": 0.8,
+    "sharedUrls": 4
+   },
+   {
+    "a": "kolkata",
+    "b": "bengaluru",
+    "urlJaccard": 0.6363636363636364,
+    "domainJaccard": 0.6363636363636364,
+    "rankCorrelation": 0.9642857142857143,
+    "sharedUrls": 7
+   },
+   {
+    "a": "hyderabad",
+    "b": "bengaluru",
+    "urlJaccard": 0.5,
+    "domainJaccard": 0.6363636363636364,
+    "rankCorrelation": 1,
+    "sharedUrls": 6
+   }
+  ],
+  "perRegion": [
+   {
+    "regionId": "mumbai",
+    "divergence": 0.27454545454545454,
+    "uniqueDomains": []
+   },
+   {
+    "regionId": "delhi",
+    "divergence": 0.3803996003996004,
+    "uniqueDomains": []
+   },
+   {
+    "regionId": "chennai",
+    "divergence": 0.36909090909090914,
+    "uniqueDomains": [
+     "payrentz.com"
+    ]
+   },
+   {
+    "regionId": "kolkata",
+    "divergence": 0.3803996003996004,
+    "uniqueDomains": []
+   },
+   {
+    "regionId": "hyderabad",
+    "divergence": 0.5371628371628372,
+    "uniqueDomains": [
+     "culligan.com",
+     "schell.eu"
+    ]
+   },
+   {
+    "regionId": "bengaluru",
+    "divergence": 0.27454545454545454,
+    "uniqueDomains": []
+   }
+  ],
+  "blindSpots": [
+   {
+    "url": "aquasana.com/info/is-your-tap-water-safe-pd.html",
+    "title": "Is Tap Water Safe to Drink?",
+    "domain": "aquasana.com",
+    "bestRank": 3,
+    "rankedIn": [
+     "mumbai",
+     "delhi",
+     "chennai",
+     "kolkata",
+     "bengaluru"
+    ],
+    "missingIn": "hyderabad"
+   },
+   {
+    "url": "momscleanairforce.org/mom-detective-tap-water",
+    "title": "Ask Mom Detective: How Can I Tell If Tap Water Is Safe to ...",
+    "domain": "momscleanairforce.org",
+    "bestRank": 1,
+    "rankedIn": [
+     "mumbai",
+     "chennai",
+     "hyderabad",
+     "bengaluru"
+    ],
+    "missingIn": "delhi"
+   },
+   {
+    "url": "momscleanairforce.org/mom-detective-tap-water",
+    "title": "Ask Mom Detective: How Can I Tell If Tap Water Is Safe to ...",
+    "domain": "momscleanairforce.org",
+    "bestRank": 1,
+    "rankedIn": [
+     "mumbai",
+     "chennai",
+     "hyderabad",
+     "bengaluru"
+    ],
+    "missingIn": "kolkata"
+   }
+  ],
+  "answerDivergence": {
+   "snippetDiffers": false,
+   "aiOverviewDiffers": false,
+   "value": 0
+  },
+  "score": 25,
+  "breakdown": {
+   "urlDistance": 0.3855411255411255,
+   "domainDistance": 0.34508158508158493,
+   "rankDisagreement": 0.021904761904761903,
+   "blindSpotPressure": 0.16666666666666666,
+   "answerDivergence": 0
+  },
+  "summary": "Across 6 regions this search scores 25/100 on divergence (noticeably different), with only 61% average URL overlap. Delhi and Hyderabad agree least (29% shared URLs), and Hyderabad sits furthest from the consensus. 3 widely-ranked results never reach at least one region's top 10."
+ },
+ "insightSource": "template",
+ "usage": {
+  "used": 55,
+  "limit": 250,
+  "month": "2026-10"
+ },
+ "creditsUsed": 4,
+ "demo": true,
+ "createdAt": "2026-10-10T06:42:13.970Z"
+}
